@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("My name is Tijani Abderrahim")})();
